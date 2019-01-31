@@ -33,6 +33,10 @@ This is a somewhat upgraded/refactored version of [nxengine](http://nxengine.sou
 * [Windows](https://github.com/nxengine/nxengine-evo/wiki/Building-windows-version)
 * [OSX](https://github.com/nxengine/nxengine-evo/wiki/Building-OSX-version)
 
+Linux :
+
+sudo apt install -y g++ ; sudo apt install -y build-essential ; sudo apt install -y cmake ; sudo apt install -y sdl2-dev ; sudo apt install -y libsdl2-ttf-dev ; sudo apt install -y libpng-devel ; sudo apt install -y  libsdl2-mixer-dev
+
 
 ## Running
  * For source builds see [Running](https://github.com/nxengine/nxengine-evo/wiki/Running) on wiki.

@@ -37,12 +37,15 @@ Linux :
 
 sudo apt install -y g++ ; sudo apt install -y build-essential ; sudo apt install -y cmake ; sudo apt install -y sdl2-dev ; sudo apt install -y libsdl2-ttf-dev ; sudo apt install -y libpng-devel ; sudo apt install -y  libsdl2-mixer-dev
 
+# building
+```
 git clone https://github.com/nxengine/nxengine-evo
 cd nxengine-evo
 mkdir build
 cd build
 cmake -DCMAKE_BUILD_TYPE=Release ..
 make
+```
 
 
 ## Running
